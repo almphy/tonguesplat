@@ -1,0 +1,10 @@
+.godot/
+scenes/
+objects/
+publish/
+frogmac.csproj
+frogmac.sln
+project.godot
+icon.svg
+**.import
+**.tscn
